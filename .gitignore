@@ -3,10 +3,10 @@ venv/
 __pycache__/
 *.pyc
 
-# Environment variables
+# Environment
 .env
 
-# Uploaded files
+# Uploads
 app/uploads/
 
 # OS
